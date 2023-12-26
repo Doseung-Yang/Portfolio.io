@@ -46,7 +46,7 @@
     background-color: var(--subBg400);
     top: 240px;
 }
-.site__item .num {
+.site__item .num .OROR{
     font-size: 5vw;
     line-height: 1;
     font-weight: 900;
